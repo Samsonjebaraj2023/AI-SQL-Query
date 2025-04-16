@@ -24,6 +24,6 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mysql-query-assistant.git
+git clone https://github.com/Samsonjebaraj2023/AI-SQL-Query.git
 cd mysql-query-assistant
 ```
