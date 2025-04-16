@@ -62,13 +62,8 @@ The backend will be available at `http://localhost:8000`
 
 #### Serve the Frontend
 
-You can either:
-1. Open the `index.html` file directly in a browser
-2. Or use a simple HTTP server:
+ Open the `index.html` file directly in a browser
 
-```bash
-python -m http.server 8080
-```
 
 Then access the frontend at `http://localhost:8080`
 
