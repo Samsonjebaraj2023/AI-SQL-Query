@@ -1,4 +1,4 @@
-# MySQL Query Assistant (Multi-Tenant)
+# MySQL Query Assistant
 
 A web-based interface that converts natural language questions into SQL queries and executes them against MySQL databases, with support for multiple tenants.
 
