@@ -29,7 +29,11 @@ cd AI-SQL-Query
 ```
 
 ### 2. Backend Setup
+#### Install Python Dependencies
 
+```bash
+pip install -r requirements.txt
+```
 #### Create `.env` File
 
 Create a `.env` file in the root directory with the following content:
